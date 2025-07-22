@@ -1,43 +1,66 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+<!DOCTYPE html>
+<html lang="mg">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Taratra Hazavana Madagasikara — Pejy Ofisialy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #fdfdfd;
+      color: #222;
+      text-align: center;
+    }
+    header {
+      background-color: #3c3c88;
+      color: white;
+      padding: 1.5rem;
+    }
+    h1 {
+      margin-bottom: 0.3rem;
+    }
+    main {
+      padding: 2rem;
+    }
+    img {
+      max-width: 300px;
+      margin: 1rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #eee;
+      padding: 1rem;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Taratra Hazavana Madagasikara</h1>
+    <p><em>"Finoana tsy maintsy tafita — Faneva sy finoana mitarika fandresena"</em></p>
+  </header>
 
-on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+  <main>
+    <h2>Mombamomba ny Tarika</h2>
+    <p>Antoko mpihira evanjelika miorina ao <strong>Toamasina</strong>, Madagasikara.</p>
+    <p>Natsangan’i <strong>Randrianaivolo Lova</strong> tamin’ny taona 2017.</p>
+    <p>Lohatenin-kira voalohany: <strong>"Finoana tsy maintsy tafita"</strong>.</p>
+    
+    <h2>Sary sy Sanganasa</h2>
+    <img src="481185953_122174628800052908_4904422146674066671_n.jpg" alt="Sary 1"/>
+    <img src="481467321_122174628896052908_1332019419244544103_n.jpg" alt="Sary 2"/>
+    <img src="498603065_122184290240052908_8123640845172725394_n.jpg" alt="Sary 3"/>
+    <img src="518290595_122188737416052908_5034573338477176627_n.jpg" alt="Sary 4"/>
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+    <h2>Rohy Video</h2>
+    <p><a href="https://www.youtube.com/watch?v=0hwNrcdpLW0" target="_blank">Hijery an'i Taratra Hazavana amin'ny YouTube</a></p>
+  </main>
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload entire repository
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+  <footer>
+    © 2025 Taratra Hazavana Madagasikara — Pejy Ofisialy
+  </footer>
+</body>
+</html>
