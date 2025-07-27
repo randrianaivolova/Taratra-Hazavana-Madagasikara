@@ -109,6 +109,31 @@ Un<!DOCTYPE html>
   <footer>
     © 2025 Taratra Hazavana Madagasikara — Pejy Ofisialy
   </footer>
-</body>
+</body><section id="video-clips" style="padding: 20px;">
+  <h2 style="text-align: center;">🎥 Lisitra Clip Vidéo Taratra Hazavana</h2>
+
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <div>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/TOG_agBx_f8" 
+        title="Clip Taratra Hazavana 1" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>
+
+    <div>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/VB6DcQqnghw" 
+        title="Clip Taratra Hazavana 2" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>
+
+    <div>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/s8lK_k-c1fQ" 
+        title="Clip Taratra Hazavana 3" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
 </html>
 
