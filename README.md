@@ -1,4 +1,4 @@
-Un<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="mg">
 <head>
   <meta charset="UTF-8" />
@@ -51,6 +51,17 @@ Un<!DOCTYPE html>
     a:hover {
       text-decoration: underline;
     }
+    .video-container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      margin-top: 2rem;
+    }
+    iframe {
+      width: 100%;
+      height: 315px;
+      border: none;
+    }
   </style>
 </head>
 <body>
@@ -99,41 +110,24 @@ Un<!DOCTYPE html>
     </section>
 
     <section>
-      <h2>Rohy Video</h2>
-      <p><a href="https://www.youtube.com/watch?v=0hwNrcdpLW0" target="_blank" rel="noopener noreferrer">Hijery an'i Taratra Hazavana amin'ny YouTube</a></p>
+      <h2>🎥 Lisitra Clip Vidéo Taratra Hazavana</h2>
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/TOG_agBx_f8" title="Clip 1"></iframe>
+        <iframe src="https://www.youtube.com/embed/VB6DcQqnghw" title="Clip 2"></iframe>
+        <iframe src="https://www.youtube.com/embed/s8lK_k-c1fQ" title="Clip 3"></iframe>
+      </div>
     </section>
-   <h2>Rohy Video</h2>
-      <p><a href="https://youtu.be/s8lK_k-c1fQ?si=QUxYYKtkbH0qc_TE
+
+    <section>
+      <h2>Rohy mankany amin'ny YouTube</h2>
+      <p><a href="https://www.youtube.com/@TaratraHazavanaMadagasikara" target="_blank" rel="noopener noreferrer">
+        Jereo amin'ny YouTube → Taratra Hazavana
+      </a></p>
+    </section>
   </main>
 
   <footer>
     © 2025 Taratra Hazavana Madagasikara — Pejy Ofisialy
   </footer>
-</body><section id="video-clips" style="padding: 20px;">
-  <h2 style="text-align: center;">🎥 Lisitra Clip Vidéo Taratra Hazavana</h2>
-
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <div>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/TOG_agBx_f8" 
-        title="Clip Taratra Hazavana 1" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-    </div>
-
-    <div>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/VB6DcQqnghw" 
-        title="Clip Taratra Hazavana 2" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-    </div>
-
-    <div>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/s8lK_k-c1fQ" 
-        title="Clip Taratra Hazavana 3" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-    </div>
-  </div>
-</section>
+</body>
 </html>
-
