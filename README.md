@@ -95,7 +95,7 @@
       <h2>Lohatenin-kira efa vita</h2>
       <ul>
         <li>01 - TARATRA HAZAVANA — FINOANA TSY MAINTSY TAFITA (By Mazava Record)</li>
-        <li>02 - TARATRA HAZAVANA — MBA TSAPANAO IANY VE ?</li>
+        <li>02 - TARATRA HAZAVANA — MBA TSAPANAO VE</li>
         <li>03 - TARATRA HAZAVANA — MIOMANA (Tsapiky)</li>
         <li>04 - TARATRA HAZAVANA — TSY HO LANY MAMY (Slow)</li>
         <li>05 - TARATRA HAZAVANA — NDAO HANDIHY (Beat)</li>
@@ -105,10 +105,10 @@
         <li>09 - TARATRA HAZAVANA — AZA ILAOZANAO (Reggae)</li>
         <li>10 - TARATRA HAZAVANA — ILAY TANY NIAVIAKO (Slow - Nouveauté Gasy 2022)</li>
         <li>11 - TARATRA HAZAVANA — INTY AHO (Slow - By Mazava Record)</li>
-        <li>12 - TARATRA HAZAVANA — JESÔ MPANAFAKA (By Mazava Record)</li>
+        <li>12 - TARATRA HAZAVANA — JESO MPANAFAKA (By Mazava Record)</li>
         <li>13 - TARATRA HAZAVANA — DEDICACE</li>
-        <li>14 - TARATRA HAZAVANA — Ô ALELOIA (Official)</li>
-        <li>15 - TARATRA HAZAVANA — MITSANGANA ANAÔ, HIDERA AN’I JESOSY</li>
+        <li>14 - TARATRA HAZAVANA — HALELOIA (Official)</li>
+        <li>15 - TARATRA HAZAVANA — HIDERA NY TOMPO (Soukouss Dombolo)</li>
         <li>16 - TARATRA HAZAVANA ft ONJA (Tinondia) — ROMBAROMBAO (Tsapiky)</li>
       </ul>
     </section>
@@ -142,9 +142,22 @@
     <section>
       <h2>Fihirana Taratra Hazavana Madagasikara (MP3)</h2>
       <ul>
-        <!-- Ny lisitra mp3 dia tsy voaova satria efa mety tsara -->
-        <!-- (Ny anaran-kira no amboarina etsy ambony) -->
-        <!-- Raha tianao havaozina ny mp3 koa, ampahafantaro) -->
+        <li><a href="https://drive.google.com/uc?export=download&id=1W3_Wso76fE02XRQWM5dhvXdqiXNenwJC" target="_blank">🎧 Finoana tsy maintsy tafita</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1dPUbSRvZXdDJbp7zu14Bi8mYr3cxiMxs" target="_blank">🎧 Mba tsapanao iany ve ?</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1Nb9e9-jFzzT6MvNg_OoMtWiXGUYb-qDf" target="_blank">🎧 Miomana (Tsapiky)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1qATgizXKOSR917SYOuQRq8oVdpU85F1K" target="_blank">🎧 Tsy ho lany mamy (Slow)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1uFzrL-Vkn8Z7KMZT3E-y2yY23TSEi0BC" target="_blank">🎧 Ndao handihy (Beat)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1GFkgAu72yoCxG1lJG1_4rE1F5Hn6wIDm" target="_blank">🎧 Samy Mahery (ft Mahery amin’ny Fiderana)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1t5Z6WIXg1wDHPYObOhFHlZIU_g8TC_iN" target="_blank">🎧 Fiarovana Avo (Tsapiky)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1VFiIpW6S42-msTclcQuEAVRuQHYzgpdl" target="_blank">🎧 Manàna finoana (ft Menafify M’Vazo)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1-6F5gMmNdcZXNClrSMrMor3CVfhqqjW_" target="_blank">🎧 Aza ilaozanao (Reggae)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1A1TXeQ_gwkFgWGPIjEQG4N2LNS62xypk" target="_blank">🎧 Ilay tany niaviako (Slow)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1JpVOlyhT2p_yNy8Yerqnz3Bx0elSG392" target="_blank">🎧 Inty aho (Slow)</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1xU0KznNZlFwpG2nZtYlpaYHvVmEBEGji" target="_blank">🎧 Jesô Mpanafaka</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1ziiZ8qtVCo7oboB00oLOU6RL2Sd8aD9G" target="_blank">🎧 Dedicace</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=1Hny6dsIMRLQUjYOxGY_LGdbXEtoF4d2K" target="_blank">🎧 Ô Aleloia</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=19hIt1IbvSXp2qlf_XH_slLc4ZvOgIS3-" target="_blank">🎧 Mitsangana anao, hidera an’i Jesosy</a></li>
+        <li><a href="https://drive.google.com/uc?export=download&id=19xm1WnYmLh4uf-QKnEqiTxNfwKZ0GDJN" target="_blank">🎧 Rombarombao (ft Onja – Tinondia)</a></li>
       </ul>
     </section>
 
