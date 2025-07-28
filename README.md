@@ -138,6 +138,28 @@
         </a>
       </p>
     </section>
+    <section>
+  <h2>Fihirana Taratra Hazavana Madagasikara (MP3)</h2>
+  <ul>
+    <li><a href="https://drive.google.com/uc?export=download&id=1lK5gtNA3f7xDdS01uQxpTJj5HWqaLeyY" target="_blank">🎧 Finoana tsy maintsy tafita</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=15tMj9qoK2D457IZXRCcODE33WC_K3-L_" target="_blank">🎧 Fiarovana Avo</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=10pBXUAYKIgBNex8nO2_fViYz3TGK0srI" target="_blank">🎧 Mba tsapanao iany ve ?</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1bPIXWPUymv40X324CxF7WbFnRH585Lar" target="_blank">🎧 Jesô Mpanafaka</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1dA9zZwtOwM0gvgNxiQTIhQZBt6q_CKHz" target="_blank">🎧 Ô Aleloia</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1j2pAR7An2ZLS2iJyWFfWLedLRIQN410A" target="_blank">🎧 Mitsangana anao, hidera an’i Jesosy</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1sWnZh08WUPUcd17BJ2PYZ84O1WPzQMB1" target="_blank">🎧 Azy avokoa</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1MJrVaN5JPLy1LjYRW5QnNV-O7Cg-Iasp" target="_blank">🎧 Tsy mendrika aho</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1jQohpIqtHXhqUI3gVFzZPbAYe0yd_pUC" target="_blank">🎧 Andriamanitra Tompo ô!</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1FytXjQamDCJLPuP1AzPApLbELAt2Szrg" target="_blank">🎧 Raha mbola miaina</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=107ntjQyOa03WGP1NqT7NVEWgt-NJRIeY" target="_blank">🎧 Mahery anie Jesosy</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1797GpbNiy60eptk_U5juF1r5Q82UeiIo" target="_blank">🎧 Fiderana manaitra</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1iuK6Zw86ph8wzgJvHficu4G5OKtlODOo" target="_blank">🎧 Alefa miaraka amin’ny Tompo</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1qqtLpD3SgPIVZvlASkAPjByD3vTpsd7g" target="_blank">🎧 Zoky sy zandry</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1I4J6w7FlO8qYHEOwZKDSmxP7y5glidk-" target="_blank">🎧 Avia hiaraka hidera</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1opC5xNAvwCQKUKCRYLBQQqWQuZBMqwHa" target="_blank">🎧 Taratra Hazavana — Hymne</a></li>
+  </ul>
+</section>
+
 
     <section>
       <h2>Pejy Facebook Ofisialy</h2>
