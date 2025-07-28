@@ -142,23 +142,27 @@
   <section>
   <h2>Fihirana Taratra Hazavana Madagasikara (MP3)</h2>
   <ul>
-    <li><a href="https://drive.google.com/uc?export=download&id=1lK5gtNA3f7xDdS01uQxpTJj5HWqaLeyY" target="_blank">🎧 Finoana tsy maintsy tafita</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=15tMj9qoK2D457IZXRCcODE33WC_K3-L_" target="_blank">🎧 Fiarovana Avo</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=10pBXUAYKIgBNex8nO2_fViYz3TGK0srI" target="_blank">🎧 Mba tsapanao iany ve ?</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1bPIXWPUymv40X324CxF7WbFnRH585Lar" target="_blank">🎧 Jesô Mpanafaka</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1dA9zZwtOwM0gvgNxiQTIhQZBt6q_CKHz" target="_blank">🎧 Ô Aleloia</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1j2pAR7An2ZLS2iJyWFfWLedLRIQN410A" target="_blank">🎧 Mitsangana anao, hidera an’i Jesosy</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1sWnZh08WUPUcd17BJ2PYZ84O1WPzQMB1" target="_blank">🎧 Azy avokoa</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1MJrVaN5JPLy1LjYRW5QnNV-O7Cg-Iasp" target="_blank">🎧 Tsy mendrika aho</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1jQohpIqtHXhqUI3gVFzZPbAYe0yd_pUC" target="_blank">🎧 Andriamanitra Tompo ô!</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1FytXjQamDCJLPuP1AzPApLbELAt2Szrg" target="_blank">🎧 Raha mbola miaina</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=107ntjQyOa03WGP1NqT7NVEWgt-NJRIeY" target="_blank">🎧 Mahery anie Jesosy</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1797GpbNiy60eptk_U5juF1r5Q82UeiIo" target="_blank">🎧 Fiderana manaitra</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1iuK6Zw86ph8wzgJvHficu4G5OKtlODOo" target="_blank">🎧 Alefa miaraka amin’ny Tompo</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1qqtLpD3SgPIVZvlASkAPjByD3vTpsd7g" target="_blank">🎧 Zoky sy zandry</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1I4J6w7FlO8qYHEOwZKDSmxP7y5glidk-" target="_blank">🎧 Avia hiaraka hidera</a></li>
-    <li><a href="https://drive.google.com/uc?export=download&id=1opC5xNAvwCQKUKCRYLBQQqWQuZBMqwHa" target="_blank">🎧 Taratra Hazavana — Hymne</a></li>
+  <section>
+  <h2>Fihirana Taratra Hazavana Madagasikara (MP3)</h2>
+  <ul>
+    <li><a href="https://drive.google.com/uc?export=download&id=1W3_Wso76fE02XRQWM5dhvXdqiXNenwJC" target="_blank">🎧 Finoana tsy maintsy tafita</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1dPUbSRvZXdDJbp7zu14Bi8mYr3cxiMxs" target="_blank">🎧 Mba tsapanao iany ve ?</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1Nb9e9-jFzzT6MvNg_OoMtWiXGUYb-qDf" target="_blank">🎧 Miomana (Tsapiky)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1qATgizXKOSR917SYOuQRq8oVdpU85F1K" target="_blank">🎧 Tsy ho lany mamy (Slow)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1uFzrL-Vkn8Z7KMZT3E-y2yY23TSEi0BC" target="_blank">🎧 Ndao handihy (Beat)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1GFkgAu72yoCxG1lJG1_4rE1F5Hn6wIDm" target="_blank">🎧 Samy Mahery (ft Mahery amin’ny Fiderana)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1t5Z6WIXg1wDHPYObOhFHlZIU_g8TC_iN" target="_blank">🎧 Fiarovana Avo (Tsapiky)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1VFiIpW6S42-msTclcQuEAVRuQHYzgpdl" target="_blank">🎧 Manàna finoana (ft Menafify M’Vazo)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1-6F5gMmNdcZXNClrSMrMor3CVfhqqjW_" target="_blank">🎧 Aza ilaozanao (Reggae)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1A1TXeQ_gwkFgWGPIjEQG4N2LNS62xypk" target="_blank">🎧 Ilay tany niaviako (Slow)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1JpVOlyhT2p_yNy8Yerqnz3Bx0elSG392" target="_blank">🎧 Inty aho (Slow)</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1xU0KznNZlFwpG2nZtYlpaYHvVmEBEGji" target="_blank">🎧 Jesô Mpanafaka</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1ziiZ8qtVCo7oboB00oLOU6RL2Sd8aD9G" target="_blank">🎧 Dedicace</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=1Hny6dsIMRLQUjYOxGY_LGdbXEtoF4d2K" target="_blank">🎧 Ô Aleloia</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=19hIt1IbvSXp2qlf_XH_slLc4ZvOgIS3-" target="_blank">🎧 Mitsangana anao, hidera an’i Jesosy</a></li>
+    <li><a href="https://drive.google.com/uc?export=download&id=19xm1WnYmLh4uf-QKnEqiTxNfwKZ0GDJN" target="_blank">🎧 Rombarombao (ft Onja – Tinondia)</a></li>
   </ul>
+</section>
 </section>
 
 
