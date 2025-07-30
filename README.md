@@ -92,7 +92,7 @@
     </section>
 
     <section>
-      <h2>Lohatenin-kira efa vita</h2>
+      <h2>Ny lalana efa vita</h2>
       <ul>
         <li>01 - TARATRA HAZAVANA — FINOANA TSY MAINTSY TAFITA (By Mazava Record)</li>
         <li>02 - TARATRA HAZAVANA — MBA TSAPANAO VE</li>
