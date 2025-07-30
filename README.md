@@ -92,17 +92,18 @@
     </section>
 
     <section>
-      <div style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f8f9fa; border-radius: 10px; max-width: 600px; margin: auto; color: #333;">
-  <p>Manasa anao:</p>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>✅ Hanaraka ity pejy ity ary,</li>
-    <li>✅ Hizara amin’ny namana</li>
-    <li>✅ Hanohana hatrany ny fitoriana amin’ny hira sy hitory ny filazantsara,</li>
-  </ul>
-  <hr style="margin: 20px 0;">
-  <p style="font-weight: bold;">Taratra Hazavana Madagasikara</p>
-  <p>🎵 “<strong>Finoana tsy maintsy tafita</strong>” — Fitoriana tsy mijanona! ✨</p>
-</div>
+      <h2 style="font-size: 28px; font-weight: bold; color: #004080;">
+  ✅ Manasa anao
+</h2>
+<ul style="font-size: 18px;">
+  <li>✅ Hanaraka ity pejy ity</li>
+  <li>✅ Hizara amin’ny namana</li>
+  <li>✅ Hanohana hatrany ny fitoriana amin’ny hira sy hitory ny filazantsara</li>
+</ul>
+<p style="margin-top: 20px;">
+  <strong>Taratra Hazavana Madagasikara</strong><br>
+  🎵 “Finoana tsy maintsy tafita” — Fitoriana tsy mijanona! ✨
+</p>
     </section>
 
     <section>
