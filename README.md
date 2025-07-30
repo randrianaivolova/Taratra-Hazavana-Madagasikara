@@ -92,25 +92,17 @@
     </section>
 
     <section>
-      <h2>Ny lalana efa vita</h2>
-      <ul>
-        <li>01 - TARATRA HAZAVANA — FINOANA TSY MAINTSY TAFITA (By Mazava Record)</li>
-        <li>02 - TARATRA HAZAVANA — MBA TSAPANAO VE</li>
-        <li>03 - TARATRA HAZAVANA — MIOMANA (Tsapiky)</li>
-        <li>04 - TARATRA HAZAVANA — TSY HO LANY MAMY (Slow)</li>
-        <li>05 - TARATRA HAZAVANA — NDAO HANDIHY (Beat)</li>
-        <li>06 - TARATRA HAZAVANA & MAHERY AMIN’NY FIDERANA — SAMY MAHERY</li>
-        <li>07 - TARATRA HAZAVANA — FIAROVANA AVO (Tsapiky)</li>
-        <li>08 - TARATRA HAZAVANA & MENAFIFY M'VAZO — MANANA FINOANA</li>
-        <li>09 - TARATRA HAZAVANA — AZA ILAOZANAO (Reggae)</li>
-        <li>10 - TARATRA HAZAVANA — ILAY TANY NIAVIAKO (Slow - Nouveauté Gasy 2022)</li>
-        <li>11 - TARATRA HAZAVANA — INTY AHO (Slow - By Mazava Record)</li>
-        <li>12 - TARATRA HAZAVANA — JESO MPANAFAKA (By Mazava Record)</li>
-        <li>13 - TARATRA HAZAVANA — DEDICACE</li>
-        <li>14 - TARATRA HAZAVANA — HALELOIA (Official)</li>
-        <li>15 - TARATRA HAZAVANA — HIDERA NY TOMPO (Soukouss Dombolo)</li>
-        <li>16 - TARATRA HAZAVANA ft ONJA (Tinondia) — ROMBAROMBAO (Tsapiky)</li>
-      </ul>
+      <div style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f8f9fa; border-radius: 10px; max-width: 600px; margin: auto; color: #333;">
+  <p>Manasa anao:</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>✅ Hanaraka ity pejy ity ary,</li>
+    <li>✅ Hizara amin’ny namana</li>
+    <li>✅ Hanohana hatrany ny fitoriana amin’ny hira sy hitory ny filazantsara,</li>
+  </ul>
+  <hr style="margin: 20px 0;">
+  <p style="font-weight: bold;">Taratra Hazavana Madagasikara</p>
+  <p>🎵 “<strong>Finoana tsy maintsy tafita</strong>” — Fitoriana tsy mijanona! ✨</p>
+</div>
     </section>
 
     <section>
