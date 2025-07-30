@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Un<!DOCTYPE html>
 <html lang="mg">
 <head>
   <meta charset="UTF-8" />
@@ -92,18 +92,20 @@
     </section>
 
     <section>
-      <h2 style="font-size: 28px; font-weight: bold; color: #004080;">
-  ✅ Manasa anao
-</h2>
-<ul style="font-size: 18px;">
-  <li>✅ Hanaraka ity pejy ity</li>
-  <li>✅ Hizara amin’ny namana</li>
-  <li>✅ Hanohana hatrany ny fitoriana amin’ny hira sy hitory ny filazantsara</li>
-</ul>
-<p style="margin-top: 20px;">
-  <strong>Taratra Hazavana Madagasikara</strong><br>
-  🎵 “Finoana tsy maintsy tafita” — Fitoriana tsy mijanona! ✨
-</p>
+      <section style="padding: 40px 20px; background-color: #f0f8ff; border-radius: 10px;">
+  <h2 style="font-size: 36px; font-weight: 800; color: #003366; text-align: center; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 30px;">
+    ✅ MANASA ANAO
+  </h2>
+  <ul style="font-size: 20px; line-height: 1.8; max-width: 600px; margin: 0 auto; text-align: left;">
+    <li>✅ Hanaraka ity pejy ity</li>
+    <li>✅ Hizara amin’ny namana</li>
+    <li>✅ Hanohana hatrany ny fitoriana amin’ny hira sy hitory ny filazantsara</li>
+  </ul>
+  <p style="margin-top: 30px; font-size: 18px; text-align: center;">
+    <strong>Taratra Hazavana Madagasikara</strong><br>
+    🎵 <em>“Finoana tsy maintsy tafita”</em> — Fitoriana tsy mijanona! ✨
+  </p>
+</section>
     </section>
 
     <section>
